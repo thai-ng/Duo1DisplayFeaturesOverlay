@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="config_display_features" translatable="false">fold-[1344,0,1410,1892]</string>
+    <string-array name="config_device_state_postures" translatable="false">
+        <item>1:2</item> <!-- HALF_OPEN -->
+        <item>2:3</item> <!-- FLAT -->
+    </string-array>
+    <integer-array name="config_foldedDeviceStates" translatable="false">
+        <item>0</item> <!-- CLOSED -->
+        <item>1</item> <!-- HALF_OPEN -->
+        <item>3</item> <!-- FOLDED -->
+  </integer-array>
+</resources>
