@@ -1,5 +1,5 @@
 runtime_resource_overlay {
-    name: "SurfaceDuo1DisplayFeaturesOverlay",
+    name: "SurfaceDuo2NoHingeAndroidOverlay",
     resource_dirs: ["res"],
     product_specific: true,
     sdk_version: "current",
